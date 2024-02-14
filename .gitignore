@@ -12,6 +12,7 @@ yarn.lock
 /build
 
 # misc
+.env
 .eslintcache
 .DS_Store
 .idea
